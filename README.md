@@ -1,135 +1,68 @@
 <h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Senior+Android+Engineer;Kotlin+%7C+Jetpack+Compose+Expert;Scalable+Mobile+Architecture;Building+High-Traffic+Apps+(1M%2B+Users);Clean+Code+%7C+Performance+%7C+Leadership" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Senior+Android+Engineer;Kotlin+%7C+Jetpack+Compose;Scalable+Mobile+Architecture;1M%2B+Users+Apps;Clean+Code+%7C+Performance" />
 </p>
 
 <p align="center">
-  🚀 Android • Kotlin • Compose • Clean Architecture • Scalable Systems
+  🚀 Android • Kotlin • Jetpack Compose • Clean Architecture
 </p>
 
----
-
-## 👀 Profile Views
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IntelliJAbhishek&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=IntelliJAbhishek&label=views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🏆 About Me
 
-- 👨‍💻 Senior Android Engineer with **8+ years experience**
-- 🏢 Working at **Paytm**
-- 🧠 Expert in **multi-module scalable architecture**
+- 👨‍💻 Senior Android Engineer with **8+ years of experience**
+- 🏢 Currently at **Paytm**
+- 🧠 Expert in **multi-module & scalable architecture**
 - 👥 Mentoring **6–10 Android engineers**
 - 🚀 Built apps with **1M+ users**
 - ⚡ Focused on **performance, stability & clean code**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 ### 📱 Mobile
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Compose-4285F4?style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Compose](https://img.shields.io/badge/Compose-4285F4?style=flat)
 
 ### 🧠 Architecture
-![MVVM](https://img.shields.io/badge/MVVM-orange?style=for-the-badge)
-![MVI](https://img.shields.io/badge/MVI-teal?style=for-the-badge)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-black?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/MVVM-orange?style=flat)
+![MVI](https://img.shields.io/badge/MVI-teal?style=flat)
+![Clean](https://img.shields.io/badge/Clean%20Architecture-black?style=flat)
+![MultiModule](https://img.shields.io/badge/Multi--Module-purple?style=flat)
 
 ### ⚡ Async & Data
-![Coroutines](https://img.shields.io/badge/Coroutines-blue?style=for-the-badge)
-![Flow](https://img.shields.io/badge/Flow-cyan?style=for-the-badge)
-![Room](https://img.shields.io/badge/Room-green?style=for-the-badge)
+![Coroutines](https://img.shields.io/badge/Coroutines-blue?style=flat)
+![Flow](https://img.shields.io/badge/Flow-cyan?style=flat)
+![Room](https://img.shields.io/badge/Room-green?style=flat)
 
-### 🔌 DI
-![Hilt](https://img.shields.io/badge/Hilt-yellow?style=for-the-badge)
-![Koin](https://img.shields.io/badge/Koin-purple?style=for-the-badge)
-
-### 🚀 DevOps
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-blue?style=for-the-badge&logo=github-actions)
-![Fastlane](https://img.shields.io/badge/Fastlane-green?style=for-the-badge)
+### 🔌 DI & Tools
+![Hilt](https://img.shields.io/badge/Hilt-yellow?style=flat)
+![Koin](https://img.shields.io/badge/Koin-purple?style=flat)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-blue?style=flat)
+![Fastlane](https://img.shields.io/badge/Fastlane-green?style=flat)
 
 ---
 
-## 🔥 Featured Projects
+## 🏗 Architecture
 
-<p align="center">
-  <a href="https://github.com/IntelliJAbhishek/vendor-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IntelliJAbhishek&repo=vendor-app&theme=radical" />
-  </a>
-  <a href="https://github.com/IntelliJAbhishek">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IntelliJAbhishek&repo=YOUR_SECOND_REPO&theme=radical" />
-  </a>
-</p>
+```mermaid
+flowchart TD
 
-> ⚠️ Replace `YOUR_SECOND_REPO` with another repo you want to highlight.
+UI[UI\nCompose + ViewModel]
+Domain[Domain\nUseCases]
+Repo[Repository]
+Network[Network API]
+DB[Database]
 
----
-
-## 📱 Key Work Highlights
-
-🚀 **MAS (1M+ Users)**  
-- Scalable telecom app using Compose + MVI  
-
-💳 **Paytm Modules**  
-- Payments, recharge & fintech workflows  
-
-📚 **ICS Homework**  
-- E-learning app with offline + video  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IntelliJAbhishek&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IntelliJAbhishek&theme=radical" height="150"/>
-</p>
-
----
-
-## 📈 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IntelliJAbhishek&layout=compact&theme=radical"/>
-</p>
-
----
-
-## 🌍 Open Source & Community
-
-- 🔧 Android ROM Developer (XDA)
-- 👥 5K+ user community
-- 💡 StackOverflow: 9.2K+ reputation
-- 📦 Android architecture & tooling
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/intellijabhishek">
-    <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Singh-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:AbhishekSingh.work93@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://github.com/IntelliJAbhishek">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
----
-
-## ⚡ Philosophy
-
-> Build scalable systems. Write clean code. Ship fast. Keep learning.
-
----
-
-⭐️ From [IntelliJAbhishek](https://github.com/IntelliJAbhishek)
+UI --> Domain
+Domain --> Repo
+Repo --> Network
+Repo --> DB
