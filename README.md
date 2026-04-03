@@ -17,10 +17,10 @@
 ## 🏆 About Me
 
 - 👨‍💻 Senior Android Engineer with **8+ years of experience**
-- 🏢 Currently at **Paytm**
-- 🧠 Expert in **multi-module & scalable architecture**
+- 🏢 Currently working at **Paytm**
+- 🧠 Expert in **scalable & multi-module architecture**
 - 👥 Mentoring **6–10 Android engineers**
-- 🚀 Built apps with **1M+ users**
+- 🚀 Built and scaled apps with **1M+ users**
 - ⚡ Focused on **performance, stability & clean code**
 
 ---
@@ -42,6 +42,7 @@
 ![Coroutines](https://img.shields.io/badge/Coroutines-blue?style=flat)
 ![Flow](https://img.shields.io/badge/Flow-cyan?style=flat)
 ![Room](https://img.shields.io/badge/Room-green?style=flat)
+![DataStore](https://img.shields.io/badge/DataStore-orange?style=flat)
 
 ### 🔌 DI & Tools
 ![Hilt](https://img.shields.io/badge/Hilt-yellow?style=flat)
@@ -51,18 +52,89 @@
 
 ---
 
-## 🏗 Architecture
+## 💼 Experience
 
-```mermaid
-flowchart TD
+### 🏢 Paytm — Senior Software Engineer (2022–Present)
+- Leading Android development as a **hands-on tech lead**
+- Driving **architecture decisions & modularization**
+- Mentoring team of **6–10 Android engineers**
+- Owning releases, deployments & production stability
+- Improving performance via profiling, crash analysis & optimizations
 
-UI[UI\nCompose + ViewModel]
-Domain[Domain\nUseCases]
-Repo[Repository]
-Network[Network API]
-DB[Database]
+---
 
-UI --> Domain
-Domain --> Repo
-Repo --> Network
-Repo --> DB
+### 🏢 Infogain — Consultant (2021–2022)
+- Worked with Times Internet (MensXP, Navbharat Times)
+- Delivered features in agile environment
+- Integrated MLKit-based face analysis & SSO
+- Fixed memory leaks & performance issues
+
+---
+
+### 🏢 Trank Technologies (2020–2021)
+- Built media streaming & offline-first features
+- Developed e-learning app (ICS Homework)
+
+---
+
+### 🏢 Phoeniixx Design (2017–2020)
+- Built multiple consumer & utility apps
+- Worked with clients like Indian Oil
+- Developed apps using React Native
+
+---
+
+## 🚀 Key Projects
+
+### 🔹 MAS (Telecom App)
+- 1M+ users  
+- Kotlin + Compose + MVI  
+- Real-time scalable system  
+
+### 🔹 Paytm Modules
+- Payments, recharge & services  
+- High-scale fintech workflows  
+
+### 🔹 Nagad Suite
+- E-wallet apps (customer, agent, merchant)  
+- MLKit-based identity features  
+
+### 🔹 ICS Homework
+- E-learning app with video + offline support  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=IntelliJAbhishek&show_icons=true&theme=radical&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=IntelliJAbhishek&theme=radical&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 🌍 Open Source & Community
+
+- 🔧 Android ROM Developer (XDA)
+- 👥 Built & managed **5K+ user community**
+- 💡 StackOverflow: **9.2K+ reputation**
+- 📦 Sharing Android architecture & tools
+
+---
+
+## 📫 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/intellijabhishek">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/>
+  </a>
+  <a href="mailto:AbhishekSingh.work93@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Philosophy
+
+> Build scalable systems. Keep it simple. Ship impact.
